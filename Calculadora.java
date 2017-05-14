@@ -11,4 +11,9 @@ public class Calculadora {
         resultado += valor;
     return resultado;
     }
+	
+	public int restar(int valor) {
+		resultado -= valor;
+		return resultado;
+	}
 }
