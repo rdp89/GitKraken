@@ -16,4 +16,8 @@ public class Calculadora {
 		resultado -= valor;
 		return resultado;
 	}
+
+	public int getResultado(){
+		return resultado;
+	}
 }
