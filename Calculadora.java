@@ -1,5 +1,6 @@
 /**
 * @author Javier Ponferrada López
+* Otro colaborador: Rafael Delgado Peña
 */
 public class Calculadora {
 	
