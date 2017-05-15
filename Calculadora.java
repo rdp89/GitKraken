@@ -1,4 +1,7 @@
-
+/**
+* @author Javier Ponferrada López
+* @author Pepito Pérez
+*/
 public class Calculadora {
 	
 	int resultado;
