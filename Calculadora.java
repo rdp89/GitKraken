@@ -1,4 +1,7 @@
-
+/**
+*
+* @author Javier Ponferrada
+*/
 public class Calculadora {
 	
 	int resultado;
