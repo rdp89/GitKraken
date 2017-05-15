@@ -1,6 +1,6 @@
 /**
 *
-* @author Javier Ponferrada
+* @author Javier Ponferrada (1º DAW)
 */
 public class Calculadora {
 	
