@@ -1,4 +1,7 @@
-
+/**
+*
+*@author Rafael Delgado (1º DAW)
+*/
 public class Calculadora {
 	
 	int resultado;
