@@ -1,6 +1,7 @@
 /**
 * @author Javier Ponferrada López
 * @author Pepito Pérez
+* @author Rafael Delgado
 */
 public class Calculadora {
 	
